@@ -16,7 +16,7 @@ keypoints:
 - "Many other functions like `IFNULL` and `NULLIF` can operate on individual values."
 ---
 
-## Joins
+## SQL Joins
 
 To combine data from two tables we use the SQL `JOIN` command, which comes after
 the `FROM` command.
